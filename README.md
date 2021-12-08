@@ -10,17 +10,14 @@ This is the site I will use to store all the changelogs for the Social Credit bo
 - Total rework of yuan earning system[^2]
 - Updated changelog
 - Changelog channel
-- Fixed bugs[^3]
+- Fixed bugs
 - Removed old credit system, due to bugs
 - Removed the set factory count command
 - Removed the pin message option from shop
-- Removed the ability to spam to get money[^4]
+- Removed the ability to spam to get money[^3]
 
 [^1]: Due to spam prevention, this is only available once every 2 minutes
 [^2]: This doesn't reset amounts of workers
-[^3]: Members jailed can no longer leave ance rejoin to avoid jail
-  There's now a backup for member data to prevent resets
-  Members are no longer about to restart the bot (oops)
-[^4]: You only get payed once per minute to prevent spamming
+[^3]: You only get payed once per minute to prevent spamming
 
 ### As more changelogs are made, they will be added.
