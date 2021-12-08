@@ -1,36 +1,26 @@
-##Assinine Bullshit
+## Social Credit Bot
+This is the site I will use to store all the changelogs for the Social Credit bot. If you want to see an idea implemented to the bot, feel free to [submit a form](https://forms.gle/Yaa7Zv9Wg6yFY4ta6).
 
-[eatshit](https://discord.gg/VW2EJrua7v)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Latest Update
+**Version 2.3 - 12/6/2021**
+- Hack command is back![^1]
+- There is now a 1 in 250 chance of workers attempting to escape
+- Vlab is now recognised as a bot owner!
+- Credits command now shows the date that the latest update came out
+- Total rework of yuan earning system[^2]
+- Updated changelog
+- Changelog channel
+- Fixed bugs[^3]
+- Removed old credit system, due to bugs
+- Removed the set factory count command
+- Removed the pin message option from shop
+- Removed the ability to spam to get money[^4]
 
-### Markdown
+[^1]: Due to spam prevention, this is only available once every 2 minutes
+[^2]: This doesn't reset amounts of workers
+[^3]: Members jailed can no longer leave ance rejoin to avoid jail
+  There's now a backup for member data to prevent resets
+  Members are no longer about to restart the bot (oops)
+[^4]: You only get payed once per minute to prevent spamming
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chromaticJS/social-credit-changelog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### As more changelogs are made, they will be added.
